@@ -1,3 +1,3 @@
-# Git Course
+# Solver
 
-Crash course 
+State-of-the-art version to modulate
